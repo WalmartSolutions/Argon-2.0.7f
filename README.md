@@ -7,9 +7,9 @@
 Community full of skids that can't even make a proper security/obf :rofl: (Even MC comm is better in this)
 
 # How To Use
-1. Download Argon-2.0.7f.zip
-2. Unzip it.
-3. Start Roblox.
+1. Download [Argon-2.0.7f.zip](https://github.com/WalmartSolutions/Argon-2.0.7f/blob/main/Argon-2.0.7f.zip) & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
+2. Unzip Argon.
+3. Start Roblox Bloxstrap.
 4. Run Argon.exe and Attach.
 5. Enjoy
 
